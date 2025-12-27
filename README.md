@@ -8,6 +8,7 @@ GenAI app that converts messy expense notes into a clean ledger using an open-so
 - Confidence per row
 - Warnings for missing dates
 - CSV download
+<img width="1858" height="846" alt="image" src="https://github.com/user-attachments/assets/15b11ec1-903e-4fa5-bc8a-ddfbe8207704" />
 
 ---
 
